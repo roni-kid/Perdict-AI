@@ -1,0 +1,3 @@
+personality_essays_all/*.pdf
+models/
+__pycache__/
