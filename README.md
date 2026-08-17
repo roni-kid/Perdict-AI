@@ -1,3 +1,4 @@
+
 # Perdict AI
 
 Crixsoft Solution AI Internship — Project 2
@@ -102,3 +103,4 @@ personality-prediction-ai/
 
 Essays dataset originally collected by James Pennebaker and Laura King,
 widely used as a benchmark for Big Five personality prediction from text.
+
