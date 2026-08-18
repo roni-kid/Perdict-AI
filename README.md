@@ -1,7 +1,5 @@
 # Perdict AI
 
----
-
 Crixsoft Solution AI Internship — Project 3
 
 Predicts Big Five (OCEAN) personality traits — Extraversion, Neuroticism,
